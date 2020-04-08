@@ -21,7 +21,7 @@ plt.legend(loc='upper left')#設定位置左上
 #show圖像
 plt.show()
 ```
-![BOXPLOT](../page/polt.JPG)
+![BOXPLOT](/page/polt.JPG)
 
 
 

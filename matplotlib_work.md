@@ -21,6 +21,9 @@ plt.legend(loc='upper left')#設定位置左上
 #show圖像
 plt.show()
 ```
+![BOXPLOT](/page/plot.jpg)
+
+
 
 
 boxplot箱形圖 (Box plot):使用matplotlib.pyplot.boxplot

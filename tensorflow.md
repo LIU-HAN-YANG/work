@@ -1,3 +1,3 @@
 
 
-![google colab tensorflow 版本切換](/page/install_tensorflow.PNG)
+![google colab tensorflow 版本切換](/page/install_tensorflow.png)

@@ -34,4 +34,43 @@ elif key==ord('b'):
 ```
 ```
 
+import cv2
+
+lena=cv2.imread("lena.bmp")
+cv2.imshow("demo", lena )
+key=cv2.waitKey()
+if key!=-1:
+    print("触发了按键")
+
 ```
+```
+
+import cv2
+
+lena=cv2.imread("lenacolor.png")
+cv2.imshow("demo", lena )
+cv2.waitKey()
+cv2.destroyWindow("demo")
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,12 @@
+```
 讀取影像使用 cv2.imread()，該函數支援各種靜態影像
+```
+```
+nameWindow()
+cv2.waitkey()
+destroyWindow() VS  destrroyAllWindow
 
+```
 ```
 # -*- coding: utf-8 -*-
 
